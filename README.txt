@@ -1,4 +1,4 @@
-KANTIN SAJIKA CERIA — FILE DIPISAH PER HALAMAN
+KANTIN LIME SEKAWAN — FILE DIPISAH PER HALAMAN
 
 Daftar file:
 - index.html       : Beranda, promo, menu populer
